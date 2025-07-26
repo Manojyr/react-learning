@@ -1,7 +1,7 @@
 # react-learning
-🛒 MERN Stack E-commerce App
+🛒 MERN Ract -Learning Platfrom
 
-This is a full-stack **E-commerce web application** built with the **MERN stack** (MongoDB, Express, React, Node.js). It supports user authentication, product listing, cart, checkout, and integrates **Weaviate** and **Google AI APIs** for enhanced functionality.
+This is a full-stack ** built with the **MERN stack** (MongoDB, Express, React, Node.js). It supports user authentication, product listing, cart, checkout, and integrates **Weaviate** and **Google AI APIs** for enhanced functionality.
 
 ---
 
@@ -27,17 +27,13 @@ This is a full-stack **E-commerce web application** built with the **MERN stack*
 
 - 🔐 User Authentication (JWT)
 - 🛍 Product Listing & Categories
-- ➕ Add to Cart / Remove from Cart
-- 💳 Order Placement & Tracking
-- 🧠 Crop Disease Detection (Image upload + AI API)
-- 📦 Admin Panel (if included)
-- 🔍 Weaviate integration for semantic product search
-
+- 
 ---
 
 ## 📁 Project Structure
 
-MERN-Stack-Ecommerce-App-master/
+MERN-Stack- Ract -Learning Platfrom
+/
 ├── backend/
 │ ├── models/
 │ ├── routes/
